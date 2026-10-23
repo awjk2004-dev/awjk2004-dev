@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 مرحباً، أنا أحمد | Hi, I'm Ahmed!
 
-<!--
-**awjk2004-dot/awjk2004-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+مطور برمجيات طموح، أعمل على تطوير مهاراتي وبناء مشاريع برمجية مميزة.  
+An aspiring software developer, working on honing my skills and building cool projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 عني | About Me
+- 💻 أتعلم حالياً تقنيات تطوير البرمجيات ولغات البرمجة.
+- 📚 مهتم بمشاركة ما أتعلمه وبناء مستودعات برمجية مفتوحة المصدر.
+- 🌱 أطمح لتطوير مشاريع مفيدة وحلول برمجية ذكية.
+
+### 🛠️ الأدوات والتقنيات | Tech Stack & Tools
+- **Languages:** HTML, CSS, JavaScript (أو أضف اللغات التي تتعلمها مثل Python / Java)
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📬 تواصل معي | Connect with me
+- **Email:** awjk2004@gmail.com
+- **GitHub:** [@awjk2004-dot](https://github.com)
+
+---
+⚡ *"الرمز الصحيح يبدأ بفكرة بسيطة."*
