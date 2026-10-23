@@ -1,24 +1,24 @@
-# 👋 مرحباً، أنا أحمد | Hi, I'm Ahmed!
+# Hi there, I'm Ahmed! 👋
 
-مطور برمجيات طموح، أعمل على تطوير مهاراتي وبناء مشاريع برمجية مميزة.  
-An aspiring software developer, working on honing my skills and building cool projects.
+### 🚀 AI Applications Engineer | Backend & Mobile Developer
 
----
+I am a passionate Software Engineer from Sudan 🇸🇩, specialized in building intelligent, scalable, and user-centric applications. I bridge the gap between robust backends and intuitive mobile interfaces.
 
-### 🚀 عني | About Me
-- 💻 أتعلم حالياً تقنيات تطوير البرمجيات ولغات البرمجة.
-- 📚 مهتم بمشاركة ما أتعلمه وبناء مستودعات برمجية مفتوحة المصدر.
-- 🌱 أطمح لتطوير مشاريع مفيدة وحلول برمجية ذكية.
-
-### 🛠️ الأدوات والتقنيات | Tech Stack & Tools
-- **Languages:** HTML, CSS, JavaScript (أو أضف اللغات التي تتعلمها مثل Python / Java)
-- **Tools:** Git, GitHub, VS Code
+- 🔭 I’m currently building a **Voice AI Assistant** integrating FastAPI and Groq LLM.
+- 🌱 I’m currently learning **Audio Signal Processing & Advanced LLM Pipelines**.
+- 🛠️ My Tech Stack: **Python | FastAPI | Flutter | MySQL | Docker | Git**
 
 ---
 
-### 📬 تواصل معي | Connect with me
-- **Email:** awjk2004@gmail.com
-- **GitHub:** [@awjk2004-dot](https://github.com)
+### 🛠️ Tech Stack & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-⚡ *"الرمز الصحيح يبدأ بفكرة بسيطة."*
+
+### 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdu-1a84a1359?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awjk2004@gmail.com)
